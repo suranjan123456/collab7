@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hii baby
+=======
+hello
+
+>>>>>>> 70c2ffa54cdde961c6001b3a893e8019c6886792
